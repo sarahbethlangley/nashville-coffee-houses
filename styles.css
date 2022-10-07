@@ -1,0 +1,9 @@
+.shop {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-basis: 17%;
+    border: 2px dotted blueviolet;
+    padding: 1em;
+    text-align: center;
+}
